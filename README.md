@@ -1,4 +1,4 @@
-# CodeDeep
+# DeepCode
 
 AI 编程助手桌面应用，支持 DeepSeek 及 OpenAI 兼容 API。
 
